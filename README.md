@@ -8,5 +8,5 @@ it, follow the original tutorial.
 
   [1]: http://evanhazlett.com/2014/11/Logging-with-ELK-and-Docker/
   [2]: https://github.com/gliderlabs/logspout
-  [3]: https://github.com/SirIle/microboxes/tree/master/logbox
+  [3]: https://github.com/SirIle/microboxes/blob/master/logbox/logstash-syslog.json
 
